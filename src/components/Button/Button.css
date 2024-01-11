@@ -1,0 +1,20 @@
+
+.addTask{
+    text-align: center;
+    font-size: 10px;
+    margin-left:4px;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px 5px 3px 5px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.clearTask{
+    font-size: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px 5px 3px 5px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+::placeholder{
+    font-family: 'Josefin Sans', sans-serif;
+}

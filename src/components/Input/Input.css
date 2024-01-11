@@ -1,0 +1,11 @@
+.input {
+    padding-left: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+}
+.input input {
+    width: 100%;
+    box-sizing: border-box;
+  }

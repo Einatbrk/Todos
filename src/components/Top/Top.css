@@ -1,0 +1,35 @@
+.top-title{
+    color: #FFF;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: -120px;
+
+}
+.top-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 33vh;
+    justify-content: center;
+    background-image: url('/public/images/Bitmap.png'), linear-gradient(0deg, rgba(172, 45, 235, 1) 45%, rgba(85, 150, 255, 1) 100%);
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+.top-input-container{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    justify-content: center;
+    margin-left: 20px;
+
+}
+.blank{
+    width: 100%;
+    height: 60px;
+}
+.top-content{
+    padding: 60px 20px 20px 20px;
+}

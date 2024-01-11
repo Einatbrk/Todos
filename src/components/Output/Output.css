@@ -1,0 +1,27 @@
+.output-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    border: 2px solid purple;
+    border-radius: 10px;
+    min-height: 200px;
+    min-width: 174px;
+    margin-left: -60px;
+}
+.output-text{
+    text-align: left;
+    padding-left:10px;
+    padding-top:5px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 12px;
+}
+#clearOutput{
+    text-align: center;
+    font-size: 10px;
+    margin-left:4px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: 5px 5px 3px 5px;
+    font-family: 'Josefin Sans', sans-serif;
+}
